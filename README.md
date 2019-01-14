@@ -9,3 +9,5 @@ Day 2 - Confusion Matrix
 Day 3 - Exception handling 
 
 Day 4 - Reverse a given string
+
+Day 5 - List operations
