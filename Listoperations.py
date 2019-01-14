@@ -16,7 +16,7 @@ print(lst)
 lst.pop(2) #removes third elemnt from the list
 print(lst)
 
-lst.append(90)
+lst.append(9780)
 print(lst)
 
 lst.extend(lststr)  #Add multiple elements to an existing list
