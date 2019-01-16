@@ -13,3 +13,5 @@ Day 4 - Reverse a given string
 Day 5 - List operations
 
 Day 6 - Factorial Function
+
+Day 7 - Print in python, Functions in python
