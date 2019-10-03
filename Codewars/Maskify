@@ -31,3 +31,10 @@ def maskify(cc):
 # return masked string
 def maskify(cc):
     return "#"*(len(cc)-4) + cc[-4:]
+    
+    
+# return masked string
+def maskify(cc):
+    l = len(cc)
+    if l <= 4: return cc
+    return (l - 4) * '#' + cc[-4:]
