@@ -22,7 +22,8 @@ def is_isogram(string):
         return True
         
         
- # Best solutions
- 
+ # Best solution 
+ # Simple and easy - set() method is used to convert any of the iterable to the distinct element 
+ # and sorted sequence of iterable elements. If the set matches the length with the string, indicates its an Isogram
  def is_isogram(string):
     return len(string) == len(set(string.lower()))
